@@ -24,15 +24,15 @@ Creating a payroll system (UML must be approved by Mikaila before you code)
 ### Part 3 - Things Objects can do
 There should be a method to printBadge() for any type of Employee in this format 
 There should be a way to calculatePay() for all types of people (Employees and Entrepreneurs)
-``
-Name: James
-Type of employee: SalariedEmployee
-HireDate: 2/30/2020
+
+> Name: James
+> Type of employee: SalariedEmployee
+> HireDate: 2/30/2020
 
 Name: Mike
 Type of employee: HourlyEmployee
 HireDate: 3/19/1999
-``
+
 In the HumanResources Class, there should be methods that can::
 1) issueBadge(which takes an array of Employees) and prints each employees badge
 2) printPaymentInfo(Takes a payable person) and prints out their payment information
