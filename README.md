@@ -1,4 +1,4 @@
-# EmployeePieLab
+# A-Employee-Pie-Lab
 
 
 Creating a payroll system (UML must be approved by Mikaila before you code)
