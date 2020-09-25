@@ -3,13 +3,21 @@
 
 Creating a payroll system (UML must be approved by Mikaila before you code)
 
-### Create the following classes:
-Person, Employee, SalariedEmployee, HourlyEmployee, Entrepreneur, HumanResources, HireDate and CheckCashingPlace and an Interface called IPayable
-
+### Part 1 - Create the following classes:
+- Person
+- Employee
+- SalariedEmployee
+- HourlyEmployee
+- Entrepreneur
+- HumanResources
+- HireDate
+- CheckCashingPlace
+- An Interface called IPayable
+### Part 2 - Fields and Relationships
 - Every Person has a name
 - Employees and Entrepreneurs are people
-Employees have an HireDate
-HireDate has a month, date and year that are all text
+- Employees have an HireDate
+- HireDate has a month, date and year that are all text
 
 SalariedEmployees have a salary
 HourlyEmployees have hourlyRate and HoursWorked
