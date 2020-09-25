@@ -101,9 +101,8 @@ SalariedEmployee should be paid : 1000.0
 Entrepreneur should be paid : 20000.0
 </pre></code>
 
-
-**You must now system out**
-- I fing  killed it..then take a nice lil 30 minute break once your code has been reviewed by Mikaila
+### Part 5 - You must now system out:
+- I freakin killed it then take a nice lil 30 minute break once your code has been reviewed by Mikaila
 
 
 
