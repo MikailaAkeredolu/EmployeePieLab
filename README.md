@@ -60,24 +60,24 @@ Entrepreneur should be paid : 20000.0
 
 **In the CheckCashing class (PSVM)..do the following:**
 
--Create an Entrepreneur, Salaried andHourly Employee objects
--Create an instance of the HumanResources class
+- Create an Entrepreneur, Salaried andHourly Employee objects
+- Create an instance of the HumanResources class
 
 
--Create an array of people that are Payable
--Create an array of Employees that are payable
+- Create an array of people that are Payable
+- Create an array of Employees that are payable
 
--Invoke the issueBadge method that takes an array of  employees
+- Invoke the issueBadge method that takes an array of  employees
 
--Print out the text - “Prior to sorting by pay..”
--Invoke the payPerson method that takes an array of  people
+- Print out the text - “Prior to sorting by pay..”
+- Invoke the payPerson method that takes an array of  people
 
--Initialize a new  ArrayList of payable People called unSortedPeople;
--Add your Entrepreneur Object plus the  Salaried and Hourly Employee instances to your list.
+- Initialize a new  ArrayList of payable People called unSortedPeople;
+- Add your Entrepreneur Object plus the  Salaried and Hourly Employee instances to your list.
 
--Print out a blank line
+- Print out a blank line
 
--Finally, invoke your sortPeopleByIncome method which accepts your list of unsortedPeople
+- Finally, invoke your sortPeopleByIncome method which accepts your list of unsortedPeople
 
 **Final Output once done should look like like this:**
 
