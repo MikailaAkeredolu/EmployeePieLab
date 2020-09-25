@@ -79,7 +79,7 @@ Entrepreneur should be paid : 20000.0
 
 - Finally, invoke your sortPeopleByIncome method which accepts your list of unsortedPeople
 
-** Final Output once done should look like like this **
+**Final Output once done should look like like this**
 
 <pre><code>
 Name: James
