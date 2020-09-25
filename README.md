@@ -102,7 +102,8 @@ Entrepreneur should be paid : 20000.0
 </pre></code>
 
 
-**You must now system out...I f****ing  killed it..then take a nice lil 30 minute break once your code has been pushed to github and  reviewed..by Mikaila!**
+**You must now system out...***
+- I fing  killed it..then take a nice lil 30 minute break once your code has been reviewed by Mikaila!
 
 
 
