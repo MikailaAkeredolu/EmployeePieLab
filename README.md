@@ -58,8 +58,7 @@ Entrepreneur should be paid : 20000.0
 </pre></code>
 
 
-### Part 4 - Implement a custom way and method
-**In the CheckCashing class (PSVM) do the following:**
+### Part 4 - In the CheckCashing class (PSVM) do the following:
 
 - Create an Entrepreneur, Salaried andHourly Employee objects
 - Create an instance of the HumanResources class
@@ -80,7 +79,7 @@ Entrepreneur should be paid : 20000.0
 
 - Finally, invoke your sortPeopleByIncome method which accepts your list of unsortedPeople
 
-**Final Output once done should look like like this:**
+** Final Output once done should look like like this **
 
 <pre><code>
 Name: James
@@ -103,7 +102,7 @@ Entrepreneur should be paid : 20000.0
 </pre></code>
 
 
-**You must now system out***
+**You must now system out**
 - I fing  killed it..then take a nice lil 30 minute break once your code has been reviewed by Mikaila
 
 
