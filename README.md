@@ -22,8 +22,8 @@ Creating a payroll system (UML must be approved by Mikaila before you code)
 - HourlyEmployees have hourlyRate and HoursWorked
 
 ### Part 3 - Things Objects can do
-There should be a method to printBadge() for any type of Employee in this format 
-There should be a way to calculatePay() for all types of people (Employees and Entrepreneurs)
+- There should be a method to **printBadge()** for any type of Employee in this format. 
+- There should be a way to **calculatePay()** for all types of people (Employees and Entrepreneurs)
 <pre><code>
 Name: James
 Type of employee: SalariedEmployee
