@@ -23,7 +23,7 @@ Creating a payroll system (UML must be approved by Mikaila before you code)
 - SalariedEmployees have a salary
 - HourlyEmployees have hourlyRate and HoursWorked
 
-### Part 3 - Things Objects can do
+### Part 3a - Things Objects can do
 - There should be a method to **printBadge()** for any type of Employee in this format. 
 - There should be a way to **calculatePay()** for all types of people (Employees and Entrepreneurs)
 <pre><code>
@@ -47,7 +47,7 @@ HourlyEmployee should be paid : 400.0
 Entrepreneur should be paid : 20000.0
 </pre></code>
 
- **Implement a custom way and method to: **
+### Part 3b - Implement a custom way and method
 **sortPeopleByIncome(which takes an ArrayList of people that are payable)**
 - Then sorts them by pay and print outs their paymentInfo after sorting them
 <pre><code>
@@ -58,7 +58,8 @@ Entrepreneur should be paid : 20000.0
 </pre></code>
 
 
-**In the CheckCashing class (PSVM)..do the following:**
+### Part 4 - Implement a custom way and method
+**In the CheckCashing class (PSVM) do the following:**
 
 - Create an Entrepreneur, Salaried andHourly Employee objects
 - Create an instance of the HumanResources class
@@ -102,8 +103,8 @@ Entrepreneur should be paid : 20000.0
 </pre></code>
 
 
-**You must now system out...***
-- I fing  killed it..then take a nice lil 30 minute break once your code has been reviewed by Mikaila!
+**You must now system out***
+- I fing  killed it..then take a nice lil 30 minute break once your code has been reviewed by Mikaila
 
 
 
