@@ -18,6 +18,7 @@ Creating a payroll system (UML must be approved by Mikaila before you code)
 ### Part 2 - Things Objects have
 - Every Person has a name
 - Employees and Entrepreneurs are people
+- Entrepreneurs have an income (ivar)
 - Employees have an HireDate
 - HireDate has a month, date and year that are all text
 - SalariedEmployees have a salary
